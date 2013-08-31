@@ -4,7 +4,7 @@
   <title><![CDATA[FBAM Blog]]></title>
   <link href="http://fallowu.github.io/atom.xml" rel="self"/>
   <link href="http://fallowu.github.io/"/>
-  <updated>2013-08-31T16:30:23+08:00</updated>
+  <updated>2013-08-31T16:34:14+08:00</updated>
   <id>http://fallowu.github.io/</id>
   <author>
     <name><![CDATA[fallow5]]></name>
@@ -21,15 +21,6 @@
     <content type="html"><![CDATA[<p>1 欢迎
 2 测试
 3 看看</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://fallowu.github.io/blog/2013/08/31/welcome/"/>
-    <updated>2013-08-31T13:12:00+08:00</updated>
-    <id>http://fallowu.github.io/blog/2013/08/31/welcome</id>
-    <content type="html"><![CDATA[<p>1 第一个博客</p>
 ]]></content>
   </entry>
   
