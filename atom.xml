@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://fallowu.github.io/atom.xml" rel="self"/>
   <link href="http://fallowu.github.io/"/>
-  <updated>2013-08-31T13:09:13+08:00</updated>
+  <updated>2013-08-31T13:17:18+08:00</updated>
   <id>http://fallowu.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[欢迎]]></title>
+    <link href="http://fallowu.github.io/blog/2013/08/31/huan-ying/"/>
+    <updated>2013-08-31T13:13:00+08:00</updated>
+    <id>http://fallowu.github.io/blog/2013/08/31/huan-ying</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://fallowu.github.io/blog/2013/08/31/welcome/"/>
+    <updated>2013-08-31T13:12:00+08:00</updated>
+    <id>http://fallowu.github.io/blog/2013/08/31/welcome</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
