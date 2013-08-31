@@ -4,11 +4,11 @@
   <title><![CDATA[FBAM Blog]]></title>
   <link href="http://fallowu.github.io/atom.xml" rel="self"/>
   <link href="http://fallowu.github.io/"/>
-  <updated>2013-08-31T14:56:58+08:00</updated>
+  <updated>2013-08-31T15:06:44+08:00</updated>
   <id>http://fallowu.github.io/</id>
   <author>
     <name><![CDATA[fallow5]]></name>
-    
+    <email><![CDATA[fallowu@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
