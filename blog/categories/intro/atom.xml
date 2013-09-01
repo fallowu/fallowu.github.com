@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 心得 | FBAM Blog]]></title>
-  <link href="http://fallowu.github.io/blog/categories/xin-de/atom.xml" rel="self"/>
+  <title><![CDATA[Category: intro | FBAM Blog]]></title>
+  <link href="http://fallowu.github.io/blog/categories/intro/atom.xml" rel="self"/>
   <link href="http://fallowu.github.io/"/>
-  <updated>2013-09-01T09:41:54+08:00</updated>
+  <updated>2013-09-01T10:01:35+08:00</updated>
   <id>http://fallowu.github.io/</id>
   <author>
     <name><![CDATA[fallow5]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[心得贴]]></title>
+    <title type="html"><![CDATA[博文感受]]></title>
     <link href="http://fallowu.github.io/blog/2013/08/31/congratulations/"/>
     <updated>2013-08-31T16:49:00+08:00</updated>
     <id>http://fallowu.github.io/blog/2013/08/31/congratulations</id>
