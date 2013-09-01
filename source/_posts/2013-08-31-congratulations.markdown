@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "心得贴"
+title: "博文感受"
 date: 2013-08-31 16:49
 comments: true
-categories: "心得" 
+categories: "intro" 
 ---
 
 ##Welcome to my website. 

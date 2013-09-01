@@ -10,6 +10,8 @@
 <nav id="main-nav">{% include navigation.html %}</nav>
 <nav id="sub-nav">
 	<div class="social">
+		{% if site.weibo_user %}
+		<a class="weibo" href="http://www.weibo.com/{{ site.weibo_user }}" title="Weibo">新浪微博</a>
 		{% if site.facebook_user %}
 		<a class="facebook" href="http://www.facebook.com/{{ site.facebook_user }}" title="Facebook">Facebook</a>
 		{% endif %}
@@ -39,6 +41,8 @@
 		{% endif %}
 		{% if site.pinboard_user %}
 		<a class="pinboard" href="https://pinboard.in/u:{{ site.pinboard_user }}" title="Pinboard">Pinboard</a>
+		{% endif %}
+		<a class="instagram" href="http://instagram.com/{{ site.instagram_user }}" title="Instagram">Instagram</a>
 		{% endif %}
 		{% if site.subscribe_rss %}
 		<a class="rss" href="{{ site.subscribe_rss }}" title="RSS">RSS</a>
